@@ -2,7 +2,7 @@
 
 The simulations performed to show an impact of some factors on the key metrics used in ecology and conservation study - effective population size.
 Here we demonstrated, how migrations, different management strategies and features of mating biology can have an influence on effective population size (calculated with LD method according to Waples, 2006)) and effective number of breeders in populations with overlapping generations.
-Model species is brown bear, *Ursus arctos*, and modelled processes reflect long-termed observations of bear biology in Croatia and Slovenia. One of the key parameters in this simulations is different hunting management strategy. In Croatian population mostly old males are taken from population, and in Slovenia implements the take of younger individuals.
+Model species is brown bear, *Ursus arctos*, and modelled processes reflect long-termed observations of bear biology in Croatia and Slovenia. One of the key parameters in this simulations is different hunting management strategy. In Croatian population mostly old males are taken from population, and Slovenia performs culling of younger individuals.
 
 Simulations are performed using simuPOP package. 
 
